@@ -4,12 +4,12 @@ import firestore from 'firebase/firestore'
 const settings = {};
 
 const config = {
-    apiKey: "AIzaSyAP57iTRsF7dIrIdFGGsexSkWoJkU_MiCA",
-    authDomain: "ronitboard.firebaseapp.com",
-    databaseURL: "https://ronitboard.firebaseio.com",
-    projectId: "ronitboard",
-    storageBucket: "ronitboard.appspot.com",
-    messagingSenderId: "992311449166"
+    apiKey: "xxx",
+    authDomain: "xxx",
+    databaseURL: "xxx",
+    projectId: "xxx",
+    storageBucket: "xxx",
+    messagingSenderId: "xxx"
   };
 firebase.initializeApp(config);
 
